@@ -1,0 +1,6 @@
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Dominio\bin\Debug\Loja.Eletronicos.Dominio.dll
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Dominio\bin\Debug\Loja.Eletronicos.Dominio.pdb
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Dominio\obj\Debug\Loja.Eletronicos.Dominio.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Dominio\obj\Debug\Loja.Eletronicos.Dominio.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Dominio\obj\Debug\Loja.Eletronicos.Dominio.dll
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Dominio\obj\Debug\Loja.Eletronicos.Dominio.pdb

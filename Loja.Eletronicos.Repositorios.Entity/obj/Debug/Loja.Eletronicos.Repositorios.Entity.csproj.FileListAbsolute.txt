@@ -1,0 +1,2 @@
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Repositorios.Entity\obj\Debug\Loja.Eletronicos.Repositorios.Entity.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Repositorios.Entity\obj\Debug\Loja.Eletronicos.Repositorios.Entity.csproj.CoreCompileInputs.cache

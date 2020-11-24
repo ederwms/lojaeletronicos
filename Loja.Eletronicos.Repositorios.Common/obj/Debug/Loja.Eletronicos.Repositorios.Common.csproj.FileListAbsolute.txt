@@ -1,0 +1,6 @@
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Repositorios.Common\bin\Debug\Loja.Eletronicos.Repositorios.Common.dll
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Repositorios.Common\bin\Debug\Loja.Eletronicos.Repositorios.Common.pdb
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Repositorios.Common\obj\Debug\Loja.Eletronicos.Repositorios.Common.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Repositorios.Common\obj\Debug\Loja.Eletronicos.Repositorios.Common.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Repositorios.Common\obj\Debug\Loja.Eletronicos.Repositorios.Common.dll
+C:\dev\faculdade\mislene\Loja.Eletronicos\Loja.Eletronicos.Repositorios.Common\obj\Debug\Loja.Eletronicos.Repositorios.Common.pdb
