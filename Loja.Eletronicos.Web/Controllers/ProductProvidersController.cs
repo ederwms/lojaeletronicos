@@ -16,6 +16,7 @@ using Loja.Eletronicos.Web.ViewModels.Product;
 
 namespace Loja.Eletronicos.Web.Controllers
 {
+    [Authorize]
     public class ProductProviderController : Controller
     {
         private IRepositorioGenerico<ProductProvider, int>

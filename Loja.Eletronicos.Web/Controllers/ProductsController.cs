@@ -13,6 +13,7 @@ using Loja.Eletronicos.Web.ViewModels.Product;
 
 namespace Loja.Eletronicos.Web.Controllers
 {
+    [Authorize]
     public class ProductsController : Controller
     {
         private ProductDbContext db = new ProductDbContext();
